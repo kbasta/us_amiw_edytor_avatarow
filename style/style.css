@@ -2,11 +2,6 @@ body {
     width: 400px;
 }
 
-#avatar{
-   width: auto;
-   height: 100px;
-}
-
 #avatar div{
     position: fixed;
 }
